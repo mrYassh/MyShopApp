@@ -49,3 +49,44 @@ Open a terminal and run:
 ```bash
 git clone https://github.com/mrYassh/MyShopApp.git
 cd MyShopApp
+
+## 📸 Screenshots
+
+### About Us
+![About Us](screenshots/aboutus.jpg)
+
+### Address Page
+![Address Page](screenshots/address.jpg)
+
+### Create Account
+![Create Account](screenshots/createaccount.jpg)
+
+### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+### Login
+![Login](screenshots/login.jpg)
+
+### My Cart
+![My Cart](screenshots/mycart.jpg)
+
+### My Orders
+![My Orders](screenshots/myorders.jpg)
+
+### Order Summary
+![Order Summary](screenshots/odersummary.jpg)
+
+### Payment
+![Payment](screenshots/payment.jpg)
+
+### Product Description
+![Product Description](screenshots/productdesctription.jpg)
+
+### Product Page
+![Product Page](screenshots/productpage.jpg)
+
+### Search
+![Search](screenshots/search.jpg)
+
+### Side Drawer
+![Side Drawer](screenshots/sidedrawer.jpg)
