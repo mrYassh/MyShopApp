@@ -264,8 +264,7 @@ fun CustomerReview(review: Review) {
             .padding(vertical = 5.dp), shape = RectangleShape
     ) {
         Column {
-
-
+            
             Row {
                 for (i in 1..review.rating) {
                     Icon(

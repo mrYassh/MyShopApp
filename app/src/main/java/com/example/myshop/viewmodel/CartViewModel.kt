@@ -166,7 +166,7 @@ class CartViewModel : ViewModel() {
 
     fun decreaseDirectItemQuantity(productId: String) {
         viewModelScope.launch {
-            val updatedList = _directItem.value?.mapNotNull {
+            val updatedList = _directItem.value?.map {
                 if (it.productId == productId) {
                     if (it.quantity > 1) it.copy(quantity = it.quantity - 1) else it.copy(quantity = 1)
                 } else {
