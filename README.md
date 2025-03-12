@@ -49,44 +49,31 @@ Open a terminal and run:
 ```bash
 git clone https://github.com/mrYassh/MyShopApp.git
 cd MyShopApp
+```
+---
 
 ## 📸 Screenshots
 
-### About Us
-![About Us](screenshots/aboutus.jpg)
+| Login | Create Account |
+|--------|--------------|
+| <img src="screenshots/login.jpg" alt="Login" width="300"/> | <img src="screenshots/createaccount.jpg" alt="Create Account" width="300"/> |
 
-### Address Page
-![Address Page](screenshots/address.jpg)
+| Homepage | Search |
+|----------|--------|
+| <img src="screenshots/homepage.jpg" alt="Homepage" width="300"/> | <img src="screenshots/search.jpg" alt="Search" width="300"/> |
 
-### Create Account
-![Create Account](screenshots/createaccount.jpg)
+| Product Page | Product Description |
+|-------------|---------------------|
+| <img src="screenshots/productpage.jpg" alt="Product Page" width="300"/> | <img src="screenshots/productdesctription.jpg" alt="Product Description" width="300"/> |
 
-### Homepage
-![Homepage](screenshots/homepage.jpg)
+| Address | Order Summary | Payment |
+|---------|--------------|---------|
+| <img src="screenshots/address.jpg" alt="Address Page" width="250"/> | <img src="screenshots/odersummary.jpg" alt="Order Summary" width="250"/> | <img src="screenshots/payment.jpg" alt="Payment" width="250"/> |
 
-### Login
-![Login](screenshots/login.jpg)
+| Side Drawer | My Orders |
+|------------|-----------|
+| <img src="screenshots/sidedrawer.jpg" alt="Side Drawer" width="300"/> | <img src="screenshots/myorders.jpg" alt="My Orders" width="300"/> |
 
-### My Cart
-![My Cart](screenshots/mycart.jpg)
-
-### My Orders
-![My Orders](screenshots/myorders.jpg)
-
-### Order Summary
-![Order Summary](screenshots/odersummary.jpg)
-
-### Payment
-![Payment](screenshots/payment.jpg)
-
-### Product Description
-![Product Description](screenshots/productdesctription.jpg)
-
-### Product Page
-![Product Page](screenshots/productpage.jpg)
-
-### Search
-![Search](screenshots/search.jpg)
-
-### Side Drawer
-![Side Drawer](screenshots/sidedrawer.jpg)
+| About Us |
+|---------|
+| <img src="screenshots/aboutus.jpg" alt="About Us" width="300"/> |
