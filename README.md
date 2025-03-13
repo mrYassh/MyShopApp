@@ -51,7 +51,14 @@ git clone https://github.com/mrYassh/MyShopApp.git
 cd MyShopApp
 ```
 ---
-
+### 2. Open in Android Studio 
+- Open **Android Studio**
+- Click **Open an Existing Project**
+- Select the cloned repository
+### 3. Run the App 
+- Connect an **Android device** or use an **emulator**.
+- Click **Run ▶** in Android Studio.
+  
 ## 📸 Screenshots
 
 | Login | Create Account |
